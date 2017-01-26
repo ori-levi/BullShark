@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to BullShark
 
-You can use the [editor on GitHub](https://github.com/ori-levi/BullShark/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+BullShark aim to swallow scapy, and perform much better on mac, linux and windows.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use BullShark to sniffing the network, generate packets, sending custom packets and more...
 
 ### Markdown
 
